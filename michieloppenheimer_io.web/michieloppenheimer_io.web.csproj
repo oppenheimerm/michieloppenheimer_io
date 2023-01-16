@@ -15,4 +15,10 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\MO.Core\MO.Core.csproj" />
+    <ProjectReference Include="..\MO.DataStore.EFCore\MO.DataStore.EFCore.csproj" />
+    <ProjectReference Include="..\MO.UseCases\MO.UseCases.csproj" />
+  </ItemGroup>
+
 </Project>
