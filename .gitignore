@@ -477,7 +477,7 @@ $RECYCLE.BIN/
 *.lnk
 
 # MO.Web/wwwroot/img/post
-MO.Web/wwwroot/img/posts
+MO.Web/wwwroot/img/posts/ 
 
 # AppNotes.txt
 AppNotes.txt
